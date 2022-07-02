@@ -1,7 +1,8 @@
+const int led = 13;
 void setup()
 {
-  pinMode(2,OUTPUT);
-  digitalWrite(2,LOW);
+  pinMode(led,OUTPUT);
+  digitalWrite(led,LOW);
 }
 void loop()
 {
