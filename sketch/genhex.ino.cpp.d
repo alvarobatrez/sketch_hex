@@ -1,0 +1,13 @@
+C:\Users\alvar\Documents\Arduino\sketch_hex\sketch\genhex.ino.cpp.o: \
+ C:\Users\alvar\Documents\Arduino\sketch_hex\sketch\genhex.ino.cpp \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/binary.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/WCharacter.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/WString.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/HardwareSerial.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/Stream.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/Print.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/Printable.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/USBAPI.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
+ C:\Users\alvar\Documents\ArduinoData\packages\arduino\hardware\avr\1.8.5\variants\mega/pins_arduino.h
