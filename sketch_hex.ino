@@ -3,7 +3,7 @@ void setup()
 {
   Serial.begin(9600);
   pinMode(led,OUTPUT);
-  digitalWrite(led,HIGH);
+  digitalWrite(led,LOW);
 }
 void loop()
 {
