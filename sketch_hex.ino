@@ -1,9 +1,8 @@
 const int led = 13;
 void setup()
 {
-  pinMode(led,OUTPUT);
-  digitalWrite(led,LOW);
   Serial.begin(9600);
+  pinMode(led,OUTPUT);
 }
 void loop()
 {
